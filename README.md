@@ -1,2 +1,2 @@
-## Dicoding
+# Dicoding
 Belajar fundamental aplikasi backend 
